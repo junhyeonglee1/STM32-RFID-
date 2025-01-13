@@ -8,5 +8,13 @@ RFID 카드리더기를 활용하여 카드체킹을 통한 출입통제기 구�
 - DS1302를 통해서 현재시각을 I2C LCD에 출력
 - Comportmaster를 통해서 현재시각 수정
 
-- ![image](https://github.com/user-attachments/assets/428b4a45-f759-4379-bc74-6ef0f2932db8)
-![image](https://github.com/user-attachments/assets/53b23e48-4db8-43d2-9333-0230007b8c87)
+
+
+
+
+https://github.com/user-attachments/assets/5c09b0c3-ee08-4929-9d57-e792cb64c896
+
+
+
+https://github.com/user-attachments/assets/5c1fb693-b514-4734-bc21-3a6f7b19f9f0
+
